@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740551802786",
+    "project_id": "rateflix-451819",
+    "storage_bucket": "rateflix-451819.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740551802786:android:40b843791a536fbdb33cfb",
+        "android_client_info": {
+          "package_name": "com.example.rateflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mU7VLMH1QL8lEud8Wz6VEnlgdCEtzGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
